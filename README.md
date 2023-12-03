@@ -8,6 +8,7 @@ https://codalab.lisn.upsaclay.fr/competitions/8522
 
 The first homework focused on image classification based on a dataset composed of 3542 images featuring eight distinct plant species.
 The objective was to train a convolutional neural network to accurately classify new plant images into their respective species.
+
 One of the main issues to overcome was the imbalance in sample sizes across species, with 186 instances for the first and 532 for the second. 
 Consequently, various augmentation and oversampling techniques were implemented to address this problem.
 
@@ -30,8 +31,7 @@ To address this, the final model was crafted by creating an ensemble of the best
 
 Samples distribution in the given dataset:
 
-![](./homework2/dataset_distribution.jpg)
-
+![](./homework2/dataset_distribution.png)
 
 Examples of data extracted from four of the twelve categories:
 
