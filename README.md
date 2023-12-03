@@ -23,7 +23,7 @@ Example of augmentation filters applied
 https://codalab.lisn.upsaclay.fr/competitions/9056
 
 The second homework was around time series classification using a dataset consisting of various time series, each composed of six pre-segmented features within windows of 36 measurements. 
-The task was to classify these time series into one of the 12 assigned categories.
+The task was to classify each new input data into one of the 12 assigned categories.
 
 Upon examining the provided data, an initial observation revealed an imbalance, with the "Sorrow" category having more samples than others, and certain classes like "Breathe" and "Shine" being underrepresented.
 
