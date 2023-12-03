@@ -29,11 +29,11 @@ Upon examining the provided data, an initial observation revealed an imbalance, 
 
 To address this, the final model was crafted by creating an ensemble of the best-trained models from various types covered in the course, including 1DCNN, BiLSTM, and Inception.
 
-Samples distribution in the given dataset:
+Samples distribution in the given dataset
 
 ![](./homework2/dataset_distribution.png)
 
-Examples of data extracted from four of the twelve categories:
+Examples of data extracted from four of the twelve categories
 
 ![](./homework2/dataset_example.png)
 
